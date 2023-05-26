@@ -3,7 +3,7 @@ Project like Yandex.Metro
 
 Пример работы программы:
 Starting station: 58
-End station: 54 \n
+End station: 54 
 Path: [58, 59, 60, 61, 62, 63, 64, 50, 51, 52, 53, 54]
 Weight: 32
 
